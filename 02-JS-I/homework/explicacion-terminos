@@ -1,0 +1,5 @@
+Las variables son nombres que pueden almacenar un valor numerico o un texto que se puede reutilizar
+Los strings letras, espacios de barra, o numeros (que no se van a usar en calculos, solo se van a leer ej: un numero de tefono)
+Una función en Excel es una fórmula que viene predefinida y depende de los argumentos que le agreguemos a la misma
+If es una funcion que mira si se cumple una condicion y si esta se cumple va dar un resultado y sino otro
+true (verdadero) y false  (falso) son los las respuestas posibles y dependen de la condicion que debe cumplir la funcion if si es que no se programo otra
